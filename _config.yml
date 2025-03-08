@@ -17,6 +17,7 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.md"}
+  - {title: "Research", file: "research.md"}
   - {title: "Blog", file: "blog.md"}
   - {title: "CV", file: "CV.md"}
   - {file: "README.md"}
@@ -33,3 +34,6 @@ comments:
 plugins:
  - jekyll-feed
  - jekyll-gist
+
+kramdown:
+  hard_wrap: true
