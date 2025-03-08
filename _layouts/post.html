@@ -1,6 +1,9 @@
 ---
 layout: default
 ---
+<div class="FeaturedImgBanner" {% if page.featured-img %} style="background-image: url('{{ page.featured-img }}');" {% endif %}>
+  <!-- Include your post title, byline, date, and other info inside the header here. -->
+</div>
 
 <article>
   {% include meta.html post=page %}
@@ -12,3 +15,9 @@ layout: default
     <noscript>Please enable JavaScript to view comments.</noscript>
   {% endif %}
 </article>
+
+<div class="FeaturedImgBanner" {% if page.featured-img %} style="background-image: url('{{ page.featured-img }}');" {% endif %}>
+  <!-- Include your post title, byline, date, and other info inside the header here. -->
+</div>
+
+
