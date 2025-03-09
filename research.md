@@ -16,6 +16,6 @@ layout: page
 ### Peer-reviewed
 <span style="color:cyan">**[Feedback scales the spatial tuning of cortical responses during visual working memory and long-term memory](https://pubmed.ncbi.nlm.nih.gov/38659957/)**</span>
 **RF Woodry**, CE Curtis, and J Winawer
-[[OSF](https://osf.io/4mf8j/)] [[GitHub](https://github.com/rwoodry/Woodry_Curtis_Winawer_2025)]
+[[OSF](https://osf.io/4mf8j/)] [[GitHub](https://github.com/rwoodry/Woodry_Curtis_Winawer_2025)] [[bioRxiv](https://www.biorxiv.org/content/10.1101/2024.04.11.589111v2.full.pdf)]
 *Journal of Neuroscience (in press)*
 ![Memory in Visual Cortex](/assets/animations/V2_surfplots.gif)
