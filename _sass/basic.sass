@@ -20,6 +20,14 @@ h1, h2, h3, h4, h5, h6
   font-weight: $heading-weight
   color: inherit
 
+@media (prefers-color-scheme: dark)
+  h3, h4, h5, h6
+    color: cyan
+
+@media (prefers-color-scheme: light)
+  h3, h4, h5, h6
+    color: teal
+
 b, strong, th
   font-weight: $font-weight + 200
 
@@ -31,6 +39,13 @@ a
   text-decoration: inherit
   &:hover
     text-decoration: underline
+
+@media (prefers-color-scheme: dark)
+  a
+    color: cyan
+    text-decoration: inherit
+    &:hover
+      text-decoration: underline
 
 header a, footer a, aside a
   color: inherit
