@@ -67,7 +67,7 @@ Fall 2023 | Undergraduate quantitative course | New York University | Prof. Wei 
 
 <p style="text-align: center;"><i>Was great at explaining and walking through problem sets when questions were asked. Linear algebra lesson was great.</i></p>
 
-**And some others that were more... mixed (but still good to look back on!):**
+**And some others that were more... *mixed* (but still good to look back on!):**
 
 <p style="text-align: center;"><i>Please, please, please consider motivating why you are about to teach something. Start with an example instead of going through 2 hours of derivations and playing with numbers beforewe realize why we should care. Because no amount of coff ee is going to convince me that I should care about all these formulas unless you tell me how they're used fi rst. Please. Justmotivate it at the beginning. ESPECIALLY before you start teaching about dot products. Also: Rob is the absolute best TA and deserves a raise- he is an incredible teacher, and was an immense help in this course and I am so grateful for him and all the time he put in for all of us. You rock, Rob!!!</i></p>
 
