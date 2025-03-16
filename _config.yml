@@ -20,7 +20,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: "Research", file: "research.md"}
   - {title: "Blog", file: "blog.md"}
   - {title: "CV", file: "CV.md"}
-  - {title: "Teaching",file: "README.md"}
+  - {title: "Teaching", file: "README.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:rwoodry@gmail.com"}
