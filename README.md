@@ -22,7 +22,7 @@ Winter 2024 | Undergraduate quantitative workshop | New York University
 
 
 ## Teaching Assistant
-[**Mathematical Tools for Neural Science and Cognitive Science**]()
+[**Mathematical Tools for Neural Science and Cognitive Science**](https://www.cns.nyu.edu/~eero/math-tools24/)
 Fall 2024 | Graduate quantitative course | New York University | Profs. Eero Simoncelli & Mike Landy
 
 [**Illusions to Inference**]()

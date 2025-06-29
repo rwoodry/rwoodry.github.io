@@ -9,6 +9,7 @@ layout: post
 New paper! @rewaniw.bsky.social, Clay Curtis, and I use fMRI to show that the way visual representations are routed through cortex when seeing vs. remembering affects their precision. We link this to behavior & show how task demand plays a role. Follow the 🧵 for more!
 
 #Neuroscience #PhDSky
+![Memory in Visual Cortex](/assets/animations/V2_surfplots.gif)
 1/15
 - - - 
 When retrieving visual memories or creating images in our heads, our visual cortex lights up too, even though we're not actually seeing anything. Previous research has focused on how similar these brain patterns are to when seeing, in line with ideas of 'cortical reinstatement' 
