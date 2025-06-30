@@ -10,4 +10,4 @@ layout: post
 
 This notebook introduces different kinds of matrices and how they can be used. The goal here is to build up intuition for a powerful method in Linear Algebra: The Singular Value Decomposition. This method lets you think of a matrix as a linear system that transforms input data to output via three stages: Rotation, Scaling, Rotation.
 
-{% jupyter_notebook "../assets/notebooks/matrix_types.ipynb" %}
+{% include notebooks/matrix_types.html %}

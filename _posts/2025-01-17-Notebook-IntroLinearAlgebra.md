@@ -10,4 +10,4 @@ layout: post
 
 This notebook introduces basic matrix operations in Linear Algebra with python. 
 
-{% jupyter_notebook "../assets/notebooks/intro_LA.ipynb" %}
+{% include notebooks/intro_LA.html %}
