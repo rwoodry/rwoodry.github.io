@@ -3,7 +3,7 @@ layout: page
 image: /assets/images/ramon_y_cajal.jpg
 ---
 
-
+![](/assets/profile.jpg){: width="150" style="float: left; padding: 15px" } 
 <p style="text-align: center;">Welcome to my website! A bit about me:</p>
 
 <p style="text-align: center;">I'm Cuban-American, born and raised in Miami.</p>
@@ -13,6 +13,7 @@ image: /assets/images/ramon_y_cajal.jpg
 
 My research focuses on understanding how the brain's visual system is used to generate representations when we remember and imagine things. I'm particularly interested in the neural signals in the brain that shape these representations, and how and where these generative processes can go wrong.
 
+{:style="clear: left"}
 #### Academic Blurb
 I'm a doctoral candidate in [**Jon Winawer's**](https://wp.nyu.edu/winawerlab/) lab at New York University, and am co-advised on several projects by [**Clay Curtis**](https://www.clayspacelab.com/), [**Grace Lindsay**](https://lindsay-lab.github.io/), and [**Serra Favila**](https://sites.brown.edu/favila-lab/).
 
