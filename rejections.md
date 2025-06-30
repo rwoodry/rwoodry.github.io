@@ -3,10 +3,7 @@ title: "Rejections"
 permalink: "/rejections/"
 layout: page
 ---
-## Applications
-Below is a spreadsheet where I keep track of what I've applied to, and the resulting acceptances and rejections. 
-
-I find it helpful to track my rejections. Softens the many, many stings.
+I find it helpful to track my rejections. Softens the many, many stings. 
 
 A visual reminder that the best way to succeed is to keep trying.
 

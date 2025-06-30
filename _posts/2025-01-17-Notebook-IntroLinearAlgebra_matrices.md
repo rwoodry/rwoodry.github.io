@@ -4,7 +4,7 @@ layout: post
 ---
 
 ---
-*I wrote a couple python notebooks introducing some basic concepts in Linear Algebra, as part of my involvement teaching in this year's (2025) NYU Undergraduate Math and Coding Bootcamp. You can find a github repo with this year's notebooks [here](https://github.com/rwoodry/UMCB_2025).*
+*I wrote a couple python notebooks introducing some basic concepts in Linear Algebra, as part of my involvement teaching in this year's (2025) NYU Undergraduate Math and Coding Bootcamp. You can find a github repo with this year's notebooks [**here**](https://github.com/rwoodry/UMCB_2025).*
 
 --- 
 
