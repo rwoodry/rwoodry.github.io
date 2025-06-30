@@ -3,7 +3,7 @@ title:  "Thread: New Paper! Feedback scales the spatial tuning of cortical respo
 layout: post
 ---
 
-[**This is the whole thread from my BlueSky post announcing the publication of my (first!) paper.**]()
+[**This is the whole thread from my BlueSky post announcing the publication of my (first!) paper.**](https://bsky.app/profile/robwoodry.bsky.social/post/3lp5jw4tbus2q)
 
 - - -
 New paper! @rewaniw.bsky.social, Clay Curtis, and I use fMRI to show that the way visual representations are routed through cortex when seeing vs. remembering affects their precision. We link this to behavior & show how task demand plays a role. Follow the 🧵 for more!

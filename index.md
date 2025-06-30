@@ -3,7 +3,10 @@ layout: page
 image: /assets/images/ramon_y_cajal.jpg
 ---
 
-![](/assets/profile.jpg){: width="150" style="float: left; padding: 15px" } 
+![](/assets/profile.jpg){: width="150" style="float: left; padding: 15px" }
+
+<br>
+
 <p style="text-align: center;">Welcome to my website! A bit about me:</p>
 
 <p style="text-align: center;">I'm Cuban-American, born and raised in Miami.</p>
