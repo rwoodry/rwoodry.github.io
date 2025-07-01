@@ -4,7 +4,7 @@ layout: page
 ---
 ## Ongoing Projects
 [**A network model that flexibly controls the tuning width of visual responses during perception and memory**]()
-**R Woodry**, G Lindsay, C Curtis, and J Winawer
+**R Woodry**, C Curtis, J Winawer, and G Lindsay
 <p style="text-align: center;"><iframe width="420" height="315" src="/assets/animations/MLring.mp4" frameborder="0" allowfullscreen></iframe></p>
 
 ## Publications
