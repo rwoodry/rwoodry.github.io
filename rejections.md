@@ -3,13 +3,12 @@ title: "Rejections"
 permalink: "/rejections/"
 layout: page
 ---
-We often highlight successes, but rarely the failures that laid the groundwork.
+We often highlight successes, but rarely the failures that paved the way.
 
 I recently began tracking all aplication outcomes.
 
-A visual reminder that the best way to succeed is to keep trying.
+Has the added benefit of softening the many, many stings, and serves as a visual reminder that the best way to succeed is to keep trying.
 
-Has the added benefit of softening the many, many stings.
 
 **Color code:**
 >Red - Rejected
