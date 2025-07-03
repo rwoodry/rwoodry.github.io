@@ -5,7 +5,7 @@ layout: page
 ---
 We often highlight successes, but rarely the failures that paved the way.
 
-I recently began tracking all application outcomes.
+So I started tracking all application outcomes.
 
 Has the added benefit of softening the many, many stings — and is a visual reminder that the best way to succeed is to keep trying.
 
