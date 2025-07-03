@@ -9,7 +9,7 @@ I recently began tracking all aplication outcomes.
 
 A visual reminder that the best way to succeed is to keep trying.
 
-HAs the added benefit of softening the many, many stings.
+Has the added benefit of softening the many, many stings.
 
 **Color code:**
 >Red - Rejected
