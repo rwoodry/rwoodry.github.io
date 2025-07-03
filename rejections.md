@@ -3,9 +3,13 @@ title: "Rejections"
 permalink: "/rejections/"
 layout: page
 ---
-I find it helpful to track my rejections. Softens the many, many stings. 
+We often highlight successes, but rarely the failures that laid the groundwork.
+
+I recently began tracking all aplication outcomes.
 
 A visual reminder that the best way to succeed is to keep trying.
+
+HAs the added benefit of softening the many, many stings.
 
 **Color code:**
 >Red - Rejected
