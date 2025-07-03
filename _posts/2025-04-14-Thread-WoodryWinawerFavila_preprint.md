@@ -1,5 +1,5 @@
 ---
-title:  "Thread: New Preprint! Memory responses in visual cortex track recall success in single-shot encoding and retrieval"
+title:  "[THREAD] New Preprint! Memory responses in visual cortex track recall success in single-shot encoding and retrieval"
 layout: post
 ---
 

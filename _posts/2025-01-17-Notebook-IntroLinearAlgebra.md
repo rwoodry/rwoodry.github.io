@@ -1,5 +1,5 @@
 ---
-title:  "Notebook: Intro to Linear Algebra with Python"
+title:  "[NOTEBOOK] Intro to Linear Algebra with Python"
 layout: post
 ---
 

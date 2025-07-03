@@ -1,5 +1,5 @@
 ---
-title:  "Thread: New Paper! Feedback scales the spatial tuning of cortical responses during visual working memory and long-term memory"
+title:  "[THREAD] New Paper! Feedback scales the spatial tuning of cortical responses during visual working memory and long-term memory"
 layout: post
 ---
 

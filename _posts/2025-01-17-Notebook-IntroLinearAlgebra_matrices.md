@@ -1,5 +1,5 @@
 ---
-title:  "Notebook: Intro to Matrices in Linear Algebra with Python"
+title:  "[NOTEBOOK] Intro to Matrices in Linear Algebra with Python"
 layout: post
 ---
 
