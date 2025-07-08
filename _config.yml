@@ -35,6 +35,7 @@ comments:
 plugins:
  - jekyll-feed
  - jekyll-gist
+ - jekyll-seo-tag
 
 kramdown:
   hard_wrap: true
