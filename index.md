@@ -10,14 +10,14 @@ image: /assets/images/ramon_y_cajal.jpg
 <p style="text-align: center;">Welcome to my website! A bit about me:</p>
 
 <p style="text-align: center;">I'm Cuban-American, born and raised in Miami.</p>
-<p style="text-align: center;">I love playing music, reading books, and trying to make math make sense in my head.</p>
+<p style="text-align: center;"> I'm a neuroscientist at New York University. I also am an amateur musician, author, artist, and volleyball player. Maybe one day I'll find a way to bridge these hobbies to my day job. </p>
 
-<p style="text-align: center;">And, I'm a neuroscientist.</p>
+<p style="text-align: center;"></p>
 
-My research focuses on understanding how the brain's visual system is used to generate representations when we remember and imagine things. I'm particularly interested in the neural signals in the brain that shape these representations, and how and where these generative processes can go wrong.
+My research focuses on understanding how the brain's visual system supports our ability to remember and imagine visual details. I'm particularly interested in the computations underlying the neural systems in the brain that shape these memory and imagery signals, and how and where these computations can go wrong.
 
 {:style="clear: left"}
 #### Academic Blurb
-I'm a doctoral candidate in [**Jon Winawer's**](https://wp.nyu.edu/winawerlab/) lab at New York University, and am co-advised on several projects by [**Clay Curtis**](https://www.clayspacelab.com/), [**Grace Lindsay**](https://lindsay-lab.github.io/), and [**Serra Favila**](https://sites.brown.edu/favila-lab/).
+Rob Woodry is a NIH F99/K00 D-SPAN Fellow and a PhD Candidate in the Cognition & Perception program at New York University, working primarily with [**Dr. Jonathan Winawer**](https://wp.nyu.edu/winawerlab/). Born and raised in Miami, Florida, he went on to complete his B.S. in Psychological Sciences at Loyola University New Orleans, where he worked with [**Dr. Kate Yurgil**](https://www.loyno.edu/academics/faculty-and-staff-directory/kate-yurgil) to complete an honors thesis using EEG to investigate prediction error signals. For the next two years he worked as a research specialist at University of California, Irvine in [**Dr. Liz Chrastil's**](https://faculty.sites.uci.edu/spatialneuro/) laboratory using fMRI and Vritual Reality to help understand how brain networks support navigation and memory. 
 
-Previously, I was a lab manager working for [**Liz Chrastil**](https://faculty.sites.uci.edu/spatialneuro/) at University of California, Irvine. As an undergrad I was advised by [**Kate Yurgil**](https://www.loyno.edu/academics/faculty-and-staff-directory/kate-yurgil) at Loyola University New Orleans, where I received a B.S. in Psychological Sciences.
+His current research focuses on understanding how visual cortex supports the access of sensory details during memory to guide behavior. His dissertation work involves combining fMRI and computational models of visual cortex to assess how memories of visuospatial details are represented across early visual cortex under different task demands, such as during working memory, long-term memory, and one-shot learning. This research involves active collaborations with Drs. [**Grace Lindsay**](https://lindsay-lab.github.io/), [**Clay Curtis**](https://www.clayspacelab.com/), [**Serra Favila**](https://sites.brown.edu/favila-lab/), and [**David Heeger**](https://www.cns.nyu.edu/heegerlab/). Rob's long-term goal is to lead a neuroscience lab that combines human neuroimaging and electrophysiology to investigate how representations in sensory cortex are generated and shaped by higher cognitive functions, and to understand how these generative systems break down. He is also dedicated to improving the accessibility of quantitative training and education in neuroscience to underserved populations. 
