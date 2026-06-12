@@ -4,10 +4,10 @@ layout: page
 ---
 ## Ongoing Projects
 [**Precision demands during learning sculpt memory representations in visual cortex during retrieval**]()
-**R Woodry**, C Curtis, J Winawer
+**R Woodry**, C Curtis, and J Winawer
 
-[**A network model that flexibly controls the tuning width of visual responses during perception and memory**]()
-A Narayan, **R Woodry**, C Curtis, J Winawer
+[**Hippocampus and prefrontal cortex differentially shape memory responses in visual cortex**]()
+A Narayan, **R Woodry**, C Curtis, and J Winawer
 
 [**A network model that flexibly controls the tuning width of visual responses during perception and memory**]()
 **R Woodry**, C Curtis, J Winawer, and G Lindsay
