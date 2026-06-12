@@ -3,15 +3,21 @@ title: "Research"
 layout: page
 ---
 ## Ongoing Projects
+[**Precision demands during learning sculpt memory representations in visual cortex during retrieval**]()
+**R Woodry**, C Curtis, J Winawer
+
+[**A network model that flexibly controls the tuning width of visual responses during perception and memory**]()
+A Narayan, **R Woodry**, C Curtis, J Winawer
+
 [**A network model that flexibly controls the tuning width of visual responses during perception and memory**]()
 **R Woodry**, C Curtis, J Winawer, and G Lindsay
 <p style="text-align: center;"><iframe width="420" height="315" src="/assets/animations/MLring.mp4" frameborder="0" allowfullscreen></iframe></p>
 
 ## Publications
 ### Preprints
-[**Memory responses in  visual cortex track recall success after single-trial encoding**](https://www.biorxiv.org/content/10.1101/2025.04.04.647327v1)
+[**Memory responses in  visual cortex track recall success after single-trial encoding**](https://www.biorxiv.org/content/10.1101/2025.04.04.647327v5)
 **R Woodry**, J Winawer, and S Favila
-[[bioRxiv](https://www.biorxiv.org/content/10.1101/2025.04.04.647327v1)]
+[[under review at ELife](https://www.biorxiv.org/content/10.1101/2025.04.04.647327v5)]
 
 ### Peer-reviewed
 [**Feedback scales the spatial tuning of cortical responses during visual working memory and long-term memory**](https://pubmed.ncbi.nlm.nih.gov/38659957/)
