@@ -8,7 +8,7 @@ The best way to test your knowledge is to teach it.
 
 Below are all the courses and workshops I have been (or will be) involved in.
 
-## Instructor
+## Course Instructor
 [**Perception**]()
 Summer 2026 | Undergraduate course | New York University
 
@@ -28,9 +28,9 @@ Winter 2024 | Undergraduate quantitative workshop | New York University
 *Taught: Derivatives; Matrices & Regression; Neural Networks*
 
 
-## Teaching Assistant
+## Course Assistant
 [**Perception**]()
-Fall 2025 | Graduate course | New York University
+Fall 2025 | Graduate quantitative course | New York University
 
 [**Mathematical Tools for Neural Science and Cognitive Science**](https://www.cns.nyu.edu/~eero/math-tools24/)
 Fall 2024 | Graduate quantitative course | New York University | Profs. Eero Simoncelli & Mike Landy
