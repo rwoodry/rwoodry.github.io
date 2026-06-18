@@ -3,7 +3,7 @@ layout: page
 image: /assets/images/ramon_y_cajal.jpg
 ---
 
-![](/assets/profile.jpg){: width="150" style="float: left; padding: 15px" }
+![](/assets/profile.jpg){: width="300" style="float: left; padding: 15px" }
 
 <br>
 
